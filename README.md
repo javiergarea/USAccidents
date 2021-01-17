@@ -1,10 +1,13 @@
 # Traffic accidents analysis using Apache Spark and Google Colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11f79ql5Fw9P5Ah3YmEzaZOVYakaVcga2?usp=sharing)
 
 This project consists in a statistical analysis of a large traffic accidents dataset [[1, 2]](##References) using Spark.
 
-## How to run the code
+It has been developed using [Google Colab](https://colab.research.google.com/)'s environment. For this purpose, both Jupyter Notebook and Dataset had been hosted using Google Drive.
 
-The project has been developed using [Google Colab](https://colab.research.google.com/)'s environment. For this purpose, both Jupyter Notebook and Dataset had been hosted using Google Drive. 
+You can run the code in my [hosted notebook](https://colab.research.google.com/drive/11f79ql5Fw9P5Ah3YmEzaZOVYakaVcga2?usp=sharing) or upload setup your own working environment following the next section steps.
+
+## How to setup the working environment
 
 Set the environment performing the following steps:
 
